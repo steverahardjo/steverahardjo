@@ -20,7 +20,6 @@ Computer science graduate from Monash University Malaysia, leaning data and back
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| **[Deckworks](https://github.com/steverahardjo/Deckworks)** | Open-source, agent-native slide workspace. An agent writes slides as self-contained HTML over MCP; you review in a live preview and leave comments it can read back | Bun · TypeScript · MCP |
 | **Fleetman** *(in progress, private)* | Fleet & logistics ERP built around the actual working day: trips, dispatch readiness, driver compliance, customer accounts | TanStack Start · React 19 · Spring Boot · Postgres |
 | **[Granarium](https://github.com/steverahardjo/Granarium)** | Read-only GitHub frontend with a dev-tool aesthetic — diffs, file trees, and an interactive commit graph | Bun · React 19 · Shiki · IndexedDB |
 | **[DSH Usage](https://github.com/steverahardjo/DSH-Usage)** | DeepSeek Harness plugin for token usage and cost telemetry, published on npm | TypeScript · npm |
@@ -28,9 +27,9 @@ Computer science graduate from Monash University Malaysia, leaning data and back
 ## Selected work
 
 **Agentic & applied AI**
+- **[Deckworks](https://github.com/steverahardjo/Deckworks)** — open-source, agent-native slide workspace, now complete. An agent writes slides as self-contained HTML over MCP; you review them in a live preview and leave comments it reads back and iterates on.
 - **[EcoPatent Analyzer](https://github.com/steverahardjo/patent-analyser-fyp)** — final year project. Scrapes USPTO patents, classifies inventions by TRIZ 40 principles, and answers questions over the corpus with hybrid vector search + LLMs.
 - **[Skilltune](https://github.com/steverahardjo/Skilltune)** — Chrome extension that reads a job posting and rewrites your resume against it, compiling Typst to PDF.
-- **[agentic](https://github.com/steverahardjo/agentic)** — a small Python library for building agents from scratch: explicit data flow, no hidden orchestration.
 - **[adk-receipt-scraper](https://github.com/steverahardjo/adk-receipt-scraper)** — receipt capture to expense reporting, driven from a Telegram bot.
 
 **Developer tools & systems**
