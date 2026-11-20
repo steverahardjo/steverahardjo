@@ -54,17 +54,14 @@ Computer science graduate from Monash University Malaysia, leaning data and back
 ## Stats
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=steverahardjo&show_icons=true&hide=stars,prs&hide_rank=true&cache_seconds=1800&bg_color=00000000&title_color=A78BFA&icon_color=34D399&text_color=C9D1D9&border_color=30363D" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steverahardjo&layout=compact&langs_count=8&cache_seconds=1800&exclude_repo=nanoGPT,MLSys-NYU-2022,pasal,rgitui,FIT1008_Assignment1,viz02,AWAS_traffic_detector&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9&border_color=30363D" />
+  <img width="359" height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=steverahardjo&show_icons=true&hide=stars,prs&hide_rank=true&cache_seconds=1800&bg_color=0D1117&title_color=A78BFA&icon_color=34D399&text_color=C9D1D9&border_color=30363D" />
+  <img width="209" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steverahardjo&layout=compact&langs_count=8&cache_seconds=1800&bg_color=0D1117&border_color=30363D&exclude_repo=nanoGPT,MLSys-NYU-2022,pasal,rgitui,FIT1008_Assignment1,viz02,AWAS_traffic_detector&title_color=A78BFA&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img width="72%" alt="Commit streak" src="https://streak-stats.demolab.com?user=steverahardjo&background=00000000&border=30363D&stroke=30363D&ring=A78BFA&fire=34D399&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E" />
+  <img width="72%" alt="Commit streak" src="https://streak-stats.demolab.com?user=steverahardjo&background=0D1117&border=30363D&stroke=30363D&ring=A78BFA&fire=34D399&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E" />
 </p>
 
-<p align="center">
-  <img width="96%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=steverahardjo&bg_color=00000000&color=C9D1D9&line=A78BFA&point=34D399&area_color=A78BFA&area=true&hide_border=true&custom_title=Activity%20this%20year" />
-</p>
 
 ## Background
 
